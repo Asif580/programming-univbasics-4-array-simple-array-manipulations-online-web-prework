@@ -1,3 +1,3 @@
 def create_array
-  ["cat", "dog"]
+  ["cat", "dog"].push("rat")
 end
