@@ -1,3 +1,3 @@
-def create_array
-  ["cat", "dog"].push("rat")
-end
+artists = ["Hozier", "Ariana Grande", "Usher"]
+next_artist = "Beyonce"
+artists.push(next_artist)
